@@ -3,7 +3,7 @@
 
 
 
-As a designer, I think a great addition to Dropmark's amazing features would be the ability to generate and save color palettes from images. I decided to build a prototype of how I envisioned this color palette feature could be incorporated.
+As a designer, I think a great addition to Dropmark's amazing features would be the ability to generate and save color palettes from images. I decided to build a concept prototype of how I envisioned this color palette feature could be incorporated.
 
 [View Prototype](https://jfocampo.github.io/)  |  [Learn About Dropmark](https://www.dropmark.com/)
 
