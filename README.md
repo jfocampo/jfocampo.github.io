@@ -13,7 +13,7 @@ To generate a color palette, click the add button on the top right. Choose a fil
 
 ![Palette Export](https://jfocampo.github.io/readme/HowToUse_AddWindow.jpg) | ![Palette Export](https://jfocampo.github.io/readme/HowToUse_ImageToColor.jpg) | ![Palette Export](https://jfocampo.github.io/readme/HowToUse_DeleteFile.jpg)
 ------------ | ------------- | -------------
-| 1. Add file by clicking the add button | 2. Upload a JPG/PNG, give it a title (optional) and click the Dropmark This button | Delete by hovering over palette and clicking the delete button |
+| 1. Add file by clicking the add button | 2. Upload a JPG/PNG, give it a title (optional) and click the "Dropmark This" button | Delete by hovering over palette and clicking the delete button |
 
 # Please Note
 For the purpose of keeping this prototype simple the only buttons/links that have actions are the following:
